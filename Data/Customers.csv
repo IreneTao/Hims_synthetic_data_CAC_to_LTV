@@ -1,0 +1,501 @@
+customer_id,signup_date,acquisition_channel
+1,2023-01-29,Social Media
+2,2023-06-30,Affiliate
+3,2023-03-21,Affiliate
+4,2023-02-24,Paid Search
+5,2023-01-11,Paid Search
+6,2023-01-11,SEO
+7,2023-01-04,SEO
+8,2023-05-01,Social Media
+9,2023-02-25,Affiliate
+10,2023-03-15,Social Media
+11,2023-01-02,Social Media
+12,2023-07-30,Referral
+13,2023-04-18,Affiliate
+14,2023-01-15,Paid Search
+15,2023-01-13,Affiliate
+16,2023-01-13,Referral
+17,2023-01-22,Affiliate
+18,2023-02-14,Social Media
+19,2023-02-03,Referral
+20,2023-01-21,Affiliate
+21,2023-02-26,Referral
+22,2023-01-10,SEO
+23,2023-01-21,Paid Search
+24,2023-01-28,Social Media
+25,2023-02-06,Referral
+26,2023-04-03,SEO
+27,2023-01-14,SEO
+28,2023-02-13,SEO
+29,2023-02-23,Paid Search
+30,2023-01-03,Referral
+31,2023-02-26,Referral
+32,2023-01-12,Referral
+33,2023-01-05,Paid Search
+34,2023-06-28,Referral
+35,2023-07-22,SEO
+36,2023-04-10,Social Media
+37,2023-01-22,Social Media
+38,2023-01-07,Paid Search
+39,2023-03-11,Affiliate
+40,2023-02-04,Referral
+41,2023-01-08,Paid Search
+42,2023-02-11,Paid Search
+43,2023-01-03,Paid Search
+44,2023-05-25,Social Media
+45,2023-01-18,SEO
+46,2023-03-07,Social Media
+47,2023-01-23,Affiliate
+48,2023-02-14,Paid Search
+49,2023-02-17,Paid Search
+50,2023-01-13,Social Media
+51,2023-07-29,Affiliate
+52,2023-03-31,Affiliate
+53,2023-06-18,Referral
+54,2023-05-16,Social Media
+55,2023-02-24,Social Media
+56,2023-06-02,Paid Search
+57,2023-01-06,Paid Search
+58,2023-01-14,Referral
+59,2023-01-03,Paid Search
+60,2023-01-24,Paid Search
+61,2023-01-30,Affiliate
+62,2023-01-19,Paid Search
+63,2023-04-16,Paid Search
+64,2023-01-27,Affiliate
+65,2023-01-20,Paid Search
+66,2023-02-16,SEO
+67,2023-01-10,Social Media
+68,2023-04-08,Affiliate
+69,2023-01-05,Referral
+70,2023-09-18,Referral
+71,2023-03-30,Paid Search
+72,2023-01-14,Social Media
+73,2023-01-01,Referral
+74,2023-04-12,Paid Search
+75,2023-03-15,Social Media
+76,2023-03-20,Referral
+77,2023-03-30,SEO
+78,2023-01-05,Social Media
+79,2023-01-27,Affiliate
+80,2023-01-08,Social Media
+81,2023-04-30,SEO
+82,2023-02-28,SEO
+83,2023-01-25,Affiliate
+84,2023-01-04,Affiliate
+85,2023-01-23,Referral
+86,2023-01-24,Paid Search
+87,2023-03-20,Affiliate
+88,2023-03-02,SEO
+89,2023-05-11,SEO
+90,2023-02-08,Affiliate
+91,2023-01-08,Social Media
+92,2023-03-16,Referral
+93,2023-03-27,Affiliate
+94,2023-02-19,Paid Search
+95,2023-03-30,Paid Search
+96,2023-02-10,Affiliate
+97,2023-02-14,Paid Search
+98,2023-02-03,Affiliate
+99,2023-01-02,Social Media
+100,2023-01-07,Affiliate
+101,2023-01-02,Social Media
+102,2023-03-02,Social Media
+103,2023-01-23,Social Media
+104,2023-02-12,Social Media
+105,2023-05-23,SEO
+106,2023-01-18,SEO
+107,2023-02-01,Referral
+108,2023-03-26,Social Media
+109,2023-01-16,Paid Search
+110,2023-01-05,SEO
+111,2023-01-21,SEO
+112,2023-01-11,Referral
+113,2023-06-09,Affiliate
+114,2023-04-10,Paid Search
+115,2023-03-02,Affiliate
+116,2023-05-04,Social Media
+117,2023-04-08,Social Media
+118,2023-01-13,SEO
+119,2023-05-14,Social Media
+120,2023-02-16,Affiliate
+121,2023-04-09,Affiliate
+122,2023-05-16,Social Media
+123,2023-01-23,Social Media
+124,2023-01-07,SEO
+125,2023-01-16,Affiliate
+126,2023-02-03,SEO
+127,2023-04-13,SEO
+128,2023-04-29,Affiliate
+129,2023-01-01,Affiliate
+130,2023-02-12,Affiliate
+131,2023-02-02,Social Media
+132,2023-01-16,Referral
+133,2023-01-08,Paid Search
+134,2023-01-25,SEO
+135,2023-06-21,SEO
+136,2023-01-24,Paid Search
+137,2023-02-13,Paid Search
+138,2023-03-14,Affiliate
+139,2023-01-28,Social Media
+140,2023-08-03,SEO
+141,2023-07-16,SEO
+142,2023-01-18,Affiliate
+143,2023-02-11,Paid Search
+144,2023-01-22,Paid Search
+145,2023-01-21,Referral
+146,2023-01-03,SEO
+147,2023-02-26,SEO
+148,2023-02-11,Affiliate
+149,2023-01-04,Social Media
+150,2023-01-20,Referral
+151,2023-05-24,Social Media
+152,2023-01-17,Referral
+153,2023-01-10,Paid Search
+154,2023-02-10,Social Media
+155,2023-09-12,Social Media
+156,2023-01-17,Paid Search
+157,2023-03-08,Affiliate
+158,2023-03-28,Paid Search
+159,2023-01-17,Paid Search
+160,2023-03-20,Referral
+161,2023-01-28,Paid Search
+162,2023-03-02,Social Media
+163,2023-03-02,Referral
+164,2023-02-16,SEO
+165,2023-01-06,SEO
+166,2023-04-19,SEO
+167,2023-01-24,Affiliate
+168,2023-01-13,Affiliate
+169,2023-01-03,Social Media
+170,2023-02-23,SEO
+171,2023-03-09,SEO
+172,2023-01-02,Paid Search
+173,2023-02-13,Paid Search
+174,2023-01-16,Affiliate
+175,2023-03-04,Affiliate
+176,2023-01-12,SEO
+177,2023-03-12,Referral
+178,2023-01-30,Referral
+179,2023-06-15,Affiliate
+180,2023-01-09,Social Media
+181,2023-01-26,Affiliate
+182,2023-01-08,Paid Search
+183,2023-06-05,Social Media
+184,2023-05-06,Referral
+185,2023-01-18,SEO
+186,2023-03-06,SEO
+187,2023-04-12,Paid Search
+188,2023-02-18,Paid Search
+189,2023-02-15,Paid Search
+190,2023-01-17,Social Media
+191,2023-01-06,SEO
+192,2023-05-17,Paid Search
+193,2023-05-19,Paid Search
+194,2023-03-02,Affiliate
+195,2023-01-25,Social Media
+196,2023-01-26,Referral
+197,2023-03-19,Paid Search
+198,2023-05-17,SEO
+199,2023-05-11,Social Media
+200,2023-04-01,Paid Search
+201,2023-03-03,Social Media
+202,2023-01-06,Referral
+203,2023-01-11,Affiliate
+204,2023-05-18,SEO
+205,2023-02-25,Paid Search
+206,2023-01-01,Referral
+207,2023-01-07,Referral
+208,2023-03-07,Affiliate
+209,2023-01-01,Affiliate
+210,2023-01-11,Affiliate
+211,2023-02-17,SEO
+212,2023-03-12,Referral
+213,2023-03-05,Affiliate
+214,2023-01-16,Referral
+215,2023-03-16,Paid Search
+216,2023-01-17,Affiliate
+217,2023-01-24,Social Media
+218,2023-03-24,Social Media
+219,2023-03-04,SEO
+220,2023-04-24,SEO
+221,2023-03-06,SEO
+222,2023-02-20,SEO
+223,2023-01-06,Affiliate
+224,2023-01-28,Affiliate
+225,2023-01-19,Paid Search
+226,2023-01-17,Social Media
+227,2023-08-05,Paid Search
+228,2023-01-30,Affiliate
+229,2023-05-14,Affiliate
+230,2023-03-01,SEO
+231,2023-04-06,Referral
+232,2023-02-11,Affiliate
+233,2023-02-21,Social Media
+234,2023-02-10,Referral
+235,2023-01-14,Social Media
+236,2023-03-18,Affiliate
+237,2023-01-20,Referral
+238,2023-01-02,Affiliate
+239,2023-03-04,Paid Search
+240,2023-01-12,Social Media
+241,2023-06-19,Paid Search
+242,2023-07-04,Paid Search
+243,2023-05-28,Affiliate
+244,2023-01-28,Affiliate
+245,2023-01-01,Referral
+246,2023-06-08,Referral
+247,2023-02-03,SEO
+248,2023-07-24,SEO
+249,2023-07-18,Affiliate
+250,2023-04-26,Paid Search
+251,2023-01-21,Affiliate
+252,2023-01-30,SEO
+253,2023-04-25,Social Media
+254,2023-01-23,Affiliate
+255,2023-01-12,Social Media
+256,2023-02-18,Referral
+257,2023-06-15,Paid Search
+258,2023-03-13,Referral
+259,2023-02-20,Affiliate
+260,2023-01-07,Referral
+261,2023-02-27,Affiliate
+262,2023-10-04,Referral
+263,2023-01-10,Referral
+264,2023-02-13,Paid Search
+265,2023-05-06,Affiliate
+266,2023-03-23,Referral
+267,2023-03-13,Paid Search
+268,2023-03-14,Paid Search
+269,2023-01-27,Paid Search
+270,2023-01-21,Paid Search
+271,2023-04-10,Social Media
+272,2023-04-10,SEO
+273,2023-05-02,Social Media
+274,2023-05-27,SEO
+275,2023-02-12,Social Media
+276,2023-02-11,SEO
+277,2023-04-07,Social Media
+278,2023-03-04,SEO
+279,2023-03-14,Affiliate
+280,2023-04-06,Paid Search
+281,2023-05-13,Affiliate
+282,2023-01-25,Referral
+283,2023-01-29,Paid Search
+284,2023-01-06,Paid Search
+285,2023-02-21,Social Media
+286,2023-01-03,Referral
+287,2023-02-07,Paid Search
+288,2023-02-16,SEO
+289,2023-01-21,Referral
+290,2023-02-23,SEO
+291,2023-01-02,Social Media
+292,2023-01-03,Social Media
+293,2023-04-14,Affiliate
+294,2023-01-27,Paid Search
+295,2023-01-09,SEO
+296,2023-02-14,Social Media
+297,2023-03-30,SEO
+298,2023-01-15,SEO
+299,2023-02-28,Social Media
+300,2023-01-06,Affiliate
+301,2023-01-04,Paid Search
+302,2023-02-15,Affiliate
+303,2023-02-16,Social Media
+304,2023-03-02,Referral
+305,2023-03-19,SEO
+306,2023-08-12,Referral
+307,2023-02-13,Affiliate
+308,2023-01-24,Social Media
+309,2023-04-06,SEO
+310,2023-01-19,Paid Search
+311,2023-02-04,SEO
+312,2023-01-05,Referral
+313,2023-01-02,SEO
+314,2023-07-17,Referral
+315,2023-04-19,Paid Search
+316,2023-03-13,Social Media
+317,2023-02-01,Referral
+318,2023-01-12,Referral
+319,2023-01-11,Referral
+320,2023-01-18,Affiliate
+321,2023-02-17,SEO
+322,2023-03-17,Social Media
+323,2023-03-06,SEO
+324,2023-01-20,Affiliate
+325,2023-07-05,Social Media
+326,2023-03-22,SEO
+327,2023-02-18,Social Media
+328,2023-02-26,SEO
+329,2023-02-02,SEO
+330,2023-01-18,SEO
+331,2023-01-27,SEO
+332,2023-03-27,Social Media
+333,2023-01-01,Paid Search
+334,2023-01-08,Referral
+335,2023-01-03,Affiliate
+336,2023-01-03,Social Media
+337,2023-04-27,Social Media
+338,2023-03-14,Affiliate
+339,2023-02-08,Paid Search
+340,2023-01-07,Referral
+341,2023-02-10,SEO
+342,2023-02-08,Paid Search
+343,2023-01-12,Paid Search
+344,2023-02-04,Paid Search
+345,2023-01-31,Affiliate
+346,2023-02-27,Affiliate
+347,2023-03-02,Referral
+348,2023-01-03,Paid Search
+349,2023-01-29,Paid Search
+350,2023-02-28,Referral
+351,2023-02-11,Affiliate
+352,2023-04-27,SEO
+353,2023-03-06,Paid Search
+354,2023-01-11,Affiliate
+355,2023-01-05,Affiliate
+356,2023-03-03,Social Media
+357,2023-01-02,Paid Search
+358,2023-02-22,Paid Search
+359,2023-06-19,Social Media
+360,2023-02-21,Social Media
+361,2023-01-30,Referral
+362,2023-03-03,Referral
+363,2023-02-06,Affiliate
+364,2023-02-17,Paid Search
+365,2023-06-20,Affiliate
+366,2023-01-30,Social Media
+367,2023-07-14,Referral
+368,2023-05-22,SEO
+369,2023-01-14,SEO
+370,2023-01-05,SEO
+371,2023-01-07,Social Media
+372,2023-01-02,SEO
+373,2023-01-06,SEO
+374,2023-03-10,SEO
+375,2023-01-05,Social Media
+376,2023-01-24,Paid Search
+377,2023-04-22,Affiliate
+378,2023-01-02,Referral
+379,2023-04-12,SEO
+380,2023-01-20,SEO
+381,2023-01-08,Referral
+382,2023-03-13,SEO
+383,2023-03-01,Social Media
+384,2023-05-06,Referral
+385,2023-03-21,Paid Search
+386,2023-04-08,Social Media
+387,2023-01-20,SEO
+388,2023-01-12,Paid Search
+389,2023-03-25,Referral
+390,2023-04-09,SEO
+391,2023-10-07,Referral
+392,2023-02-01,Referral
+393,2023-01-28,Referral
+394,2023-03-31,Referral
+395,2023-01-26,SEO
+396,2023-06-10,SEO
+397,2023-04-28,Social Media
+398,2023-02-03,SEO
+399,2023-03-25,Paid Search
+400,2023-03-26,Referral
+401,2023-01-07,Referral
+402,2023-05-20,Affiliate
+403,2023-02-12,Paid Search
+404,2023-04-16,Referral
+405,2023-01-24,SEO
+406,2023-05-16,Paid Search
+407,2023-01-30,Social Media
+408,2023-01-01,Affiliate
+409,2023-05-22,Social Media
+410,2023-01-06,Affiliate
+411,2023-01-24,Paid Search
+412,2023-06-29,Affiliate
+413,2023-06-30,Affiliate
+414,2023-02-21,Referral
+415,2023-03-01,Affiliate
+416,2023-02-05,Referral
+417,2023-01-21,Social Media
+418,2023-01-24,Social Media
+419,2023-03-08,Affiliate
+420,2023-03-25,Referral
+421,2023-04-05,Affiliate
+422,2023-04-04,Referral
+423,2023-01-06,Referral
+424,2023-02-10,Referral
+425,2023-01-04,SEO
+426,2023-02-17,Paid Search
+427,2023-02-04,Referral
+428,2023-05-12,Social Media
+429,2023-01-26,Paid Search
+430,2023-01-08,Referral
+431,2023-01-10,Referral
+432,2023-03-28,SEO
+433,2023-02-27,Social Media
+434,2023-01-07,Affiliate
+435,2023-01-06,Affiliate
+436,2023-03-14,Referral
+437,2023-01-05,Social Media
+438,2023-04-14,Paid Search
+439,2023-03-15,Paid Search
+440,2023-01-06,Social Media
+441,2023-01-06,Referral
+442,2023-09-16,SEO
+443,2023-01-29,Social Media
+444,2023-01-28,Affiliate
+445,2023-04-11,Social Media
+446,2023-06-26,SEO
+447,2023-09-14,Social Media
+448,2023-03-25,Referral
+449,2023-01-29,Affiliate
+450,2023-01-06,SEO
+451,2023-04-01,Social Media
+452,2023-02-19,Paid Search
+453,2023-02-03,Referral
+454,2023-05-23,Social Media
+455,2023-01-08,Paid Search
+456,2023-02-10,Social Media
+457,2023-01-01,Referral
+458,2023-02-07,SEO
+459,2023-01-04,Referral
+460,2023-01-08,Referral
+461,2023-01-08,Affiliate
+462,2023-03-04,SEO
+463,2023-03-24,Paid Search
+464,2023-02-22,Paid Search
+465,2023-07-16,Affiliate
+466,2023-01-29,Affiliate
+467,2023-01-21,Affiliate
+468,2023-05-02,Affiliate
+469,2023-01-16,Referral
+470,2023-07-18,SEO
+471,2023-01-01,Social Media
+472,2023-07-30,Paid Search
+473,2023-01-03,Referral
+474,2023-05-14,Social Media
+475,2023-02-15,Social Media
+476,2023-10-25,Referral
+477,2023-01-05,Social Media
+478,2023-02-18,SEO
+479,2023-07-29,SEO
+480,2023-02-14,Paid Search
+481,2023-03-01,Referral
+482,2023-03-13,Paid Search
+483,2023-02-06,Affiliate
+484,2023-03-01,SEO
+485,2023-02-22,SEO
+486,2023-05-19,Social Media
+487,2023-01-03,Paid Search
+488,2023-01-20,Referral
+489,2023-06-30,SEO
+490,2023-05-13,Social Media
+491,2023-02-06,Social Media
+492,2023-02-28,SEO
+493,2023-01-20,Referral
+494,2023-01-13,SEO
+495,2023-02-07,Referral
+496,2023-01-27,Paid Search
+497,2023-02-22,Referral
+498,2023-01-05,Social Media
+499,2023-08-08,Paid Search
+500,2023-09-15,Paid Search
