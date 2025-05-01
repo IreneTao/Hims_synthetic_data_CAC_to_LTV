@@ -105,7 +105,7 @@ GROUP BY c.acquisition_channel
 ORDER BY ltv_to_cac_ratio DESC;
 ```
 
-![Hims_synthetic_data_CAC_to_LTV](ImagesLTV_to_CAC.png)
+![Hims_synthetic_data_CAC_to_LTV](Images/LTV_to_CAC.png)
 
 🔍 **Insight:** The highest LTV/CAC ratio is only **0.02**, meaning the company is spending $1 to generate just **2 cents** in revenue.
 
